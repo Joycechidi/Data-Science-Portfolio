@@ -5,14 +5,14 @@ From the Kaggle Data Science and Machine Learning 2019 survey, I answered severa
 My Kaggle kernel for this analysis can be found here: https://www.kaggle.com/joycechidi/where-canadian-data-scientists-belong-in-2019
 
 # Libraries Used
-IPython
-Image
-os
-numpy
-pandas
-matplotlib
-seaborn
-plotly
+1. IPython
+2. Image
+3. os
+4. numpy
+5. pandas
+6. matplotlib
+7. seaborn
+8. plotly
 
 # Data Sources
 https://www.kaggle.com/c/kaggle-survey-2019
