@@ -1,5 +1,5 @@
 ## Motivation
-This project focuses on weaving together software engineering, data engineering, machine learning (NLP) skills to produce and end data science project. Messages in the form of English texts were extracted, cleaned, transformed and loaded into a SQLite database for creating an ETL pipeline.
+This project focuses on weaving together software engineering, data engineering, machine learning (NLP) skills to produce an end to end data science project. Messages in the form of English texts were extracted, cleaned, transformed and loaded into a SQLite database for creating an ETL pipeline.
 
 The ETL pipeline was used to create a Machine Learning pipeline for a web application where users can enter messages to help sort or understand how best to respond to disaster situations.
 
