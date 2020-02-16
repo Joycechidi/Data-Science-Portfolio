@@ -16,4 +16,4 @@ The ETL pipeline was used to create a Machine Learning pipeline for a web applic
 ## Licence:
 Training is by Udacity Nanodegree program.
 
-![Project Results](/assets/webapp.png)
+![Project Results](Results/webapp.png)
