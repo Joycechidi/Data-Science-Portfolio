@@ -51,8 +51,6 @@ def index():
     genre_names = list(genre_counts.index)
     
     categories = df.iloc[:,4:].columns
-    #categories_sum = (df.iloc[:,4:] != 0).sum()
-    #categories_mean = categories.mean().sort_values(ascending=False)[1:11]
     categories_sum = df.iloc[:, 4:].sum()
     categories_names = list(categories_sum.index)
     
@@ -103,25 +101,7 @@ def index():
             }
          }
     ]
-#         {
-#             'data': [
-#                 Bar(
-#                     x=categories_names,
-#                     y=categories_mean
-#                 )
-#             ],
 
-#             'layout': {
-#                 'title': 'Top 20 Message Categories',
-#                 'yaxis': {
-#                     'title': "Total"
-#                 },
-#                 'xaxis': {
-#                     'title': "Categories"
-#                 }
-#             }
-#         }
-    
 
     
     # encode plotly graphs in JSON
