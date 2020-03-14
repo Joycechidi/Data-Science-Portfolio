@@ -19,3 +19,6 @@ https://www.kaggle.com/c/kaggle-survey-2019
 1. Images used are cited in the notebook.
 2. Data plot photo from Carlos Muza on Unsplash
 3. Canada flag photo from Maxime Vermeil (@max.vrm) on Unsplash
+
+# Author 
+Blog post and Code for this analysis provided by Joyce Chidiadi
