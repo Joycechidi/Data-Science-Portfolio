@@ -4,6 +4,9 @@ I have been working on Kaggle for over a year now and I have been curious to kno
 From the Kaggle Data Science and Machine Learning 2019 survey, I answered several questions about Data Scientists in Canada. The questions raised and the answers are fully described in the .ipnb notebook in this repository.
 My Kaggle kernel for this analysis can be found here: https://www.kaggle.com/joycechidi/where-canadian-data-scientists-belong-in-2019
 
+# Blog Post For This Analysis
+Read the blog post for non-technical people here: https://medium.com/@jcchidiadi/heres-what-we-know-about-canadian-data-scientists-70e0b631039c
+
 # Libraries Used
 1. IPython
 2. Image
