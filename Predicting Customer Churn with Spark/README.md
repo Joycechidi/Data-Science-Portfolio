@@ -12,7 +12,7 @@ In this project, a Music streaming startup wants to predict their customer/user 
 
 ### Cloud Account Setup and Installation
 I chose IBM cloud for this project to learn how to work with OBM Watson Studio. I found the Jupyter Notebook very easy to use. To use the IBM Cloud for this project, you need to first create an IBM cloud account and choose the free Lite version which requires no credit card details. This version was enough to get me results for this project even though I blew up my AWS free tier EC2 instance package prior to switching to IBM cloud.
-Find more details about the IBM Cloud Lite version here: [https://cloud.ibm.com/docs/account?topic=account-accounts#lite-account-features[
+Find more details about the IBM Cloud Lite version here: [https://cloud.ibm.com/docs/account?topic=account-accounts#lite-account-features]
 
 ### Libraries Used
 * Python 3.6
