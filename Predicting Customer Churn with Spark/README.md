@@ -28,9 +28,9 @@ Find more details about the IBM Cloud Lite version here: [https://cloud.ibm.com/
 
 
 ### Data Source and Results
-Data was provided by Udeacity for the Data Science Nanodegree program
+Data was provided by Udacity for the Data Science Nanodegree program
 
 ### Blog Post For This Project: https://medium.com/@jcchidiadi/predicting-customer-churn-using-pyspark-on-ibm-cloud-ec2d2c3e2320
 
 ### Licensing, Authors and Acknowledgements
-This work was done by Joyce Chidiadi with help from my Udacity mentor
+This work was done by Joyce Chidiadi with help from my Udacity mentor.
